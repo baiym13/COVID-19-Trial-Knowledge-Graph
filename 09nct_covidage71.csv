@@ -1,0 +1,72 @@
+﻿,Rank,nctid,age,age_id
+0,82,NCT04392141,"10 Years and older  (Child, Adult, Older Adult)",age_17
+1,665,NCT04292899,"12 Years and older  (Child, Adult, Older Adult)",age_30
+2,697,NCT04292730,"12 Years and older  (Child, Adult, Older Adult)",age_30
+3,1963,NCT04362137,"12 Years and older  (Child, Adult, Older Adult)",age_30
+4,3470,NCT04335552,"12 Years and older  (Child, Adult, Older Adult)",age_30
+5,5992,NCT04634903,13 Years to 16 Years  (Child),age_47
+6,2999,NCT04422561,"16 Years to 70 Years  (Child, Adult, Older Adult)",age_82
+7,40,NCT04431908,"18 Years and older  (Adult, Older Adult)",age_101
+8,70,NCT04716426,"18 Years and older  (Adult, Older Adult)",age_101
+9,105,NCT04474496,"18 Years and older  (Adult, Older Adult)",age_101
+10,129,NCT04646109,"18 Years and older  (Adult, Older Adult)",age_101
+11,387,NCT04332081,"18 Years and older  (Adult, Older Adult)",age_101
+12,492,NCT04329923,"18 Years and older  (Adult, Older Adult)",age_101
+13,551,NCT04410159,"18 Years and older  (Adult, Older Adult)",age_101
+14,573,NCT04331366,"18 Years and older  (Adult, Older Adult)",age_101
+15,792,NCT04320615,"18 Years and older  (Adult, Older Adult)",age_101
+16,1058,NCT04435808,"18 Years and older  (Adult, Older Adult)",age_101
+17,1158,NCT04358068,"18 Years and older  (Adult, Older Adult)",age_101
+18,1500,NCT04358081,"18 Years and older  (Adult, Older Adult)",age_101
+19,1627,NCT04523831,"18 Years and older  (Adult, Older Adult)",age_101
+20,1634,NCT04599959,"18 Years and older  (Adult, Older Adult)",age_101
+21,1803,NCT04343092,"18 Years and older  (Adult, Older Adult)",age_101
+22,2056,NCT04724538,"18 Years and older  (Adult, Older Adult)",age_101
+23,2106,NCT04338009,"18 Years and older  (Adult, Older Adult)",age_101
+24,2115,NCT04342663,"18 Years and older  (Adult, Older Adult)",age_101
+25,2210,NCT04425850,"18 Years and older  (Adult, Older Adult)",age_101
+26,2365,NCT04411667,"18 Years and older  (Adult, Older Adult)",age_101
+27,2457,NCT04698993,"18 Years and older  (Adult, Older Adult)",age_101
+28,2500,NCT04502056,"18 Years and older  (Adult, Older Adult)",age_101
+29,2682,NCT04728802,"18 Years and older  (Adult, Older Adult)",age_101
+30,3155,NCT04407507,"18 Years and older  (Adult, Older Adult)",age_101
+31,3302,NCT04409886,"18 Years and older  (Adult, Older Adult)",age_101
+32,3308,NCT04399980,"18 Years and older  (Adult, Older Adult)",age_101
+33,3428,NCT04365153,"18 Years and older  (Adult, Older Adult)",age_101
+34,4150,NCT04446429,"18 Years and older  (Adult, Older Adult)",age_101
+35,4163,NCT04332991,"18 Years and older  (Adult, Older Adult)",age_101
+36,4587,NCT04385238,"18 Years and older  (Adult, Older Adult)",age_101
+37,4914,NCT04371419,"18 Years and older  (Adult, Older Adult)",age_101
+38,4937,NCT04402970,"18 Years and older  (Adult, Older Adult)",age_101
+39,5052,NCT04328467,"18 Years and older  (Adult, Older Adult)",age_101
+40,5311,NCT04542226,"18 Years and older  (Adult, Older Adult)",age_101
+41,5382,NCT04327388,"18 Years and older  (Adult, Older Adult)",age_101
+42,5834,NCT04308668,"18 Years and older  (Adult, Older Adult)",age_101
+43,5851,NCT04340557,"18 Years and older  (Adult, Older Adult)",age_101
+44,6023,NCT04160975,18 Years to 51 Years  (Adult),age_130
+45,3212,NCT04390022,18 Years to 59 Years  (Adult),age_134
+46,5971,NCT04392219,18 Years to 60 Years  (Adult),age_135
+47,3445,NCT04491240,"18 Years to 65 Years  (Adult, Older Adult)",age_138
+48,5330,NCT04490239,"18 Years to 65 Years  (Adult, Older Adult)",age_138
+49,9,NCT04452435,"18 Years to 70 Years  (Adult, Older Adult)",age_142
+50,645,NCT04331899,"18 Years to 75 Years  (Adult, Older Adult)",age_146
+51,210,NCT04542694,"18 Years to 80 Years  (Adult, Older Adult)",age_149
+52,568,NCT04335136,"18 Years to 80 Years  (Adult, Older Adult)",age_149
+53,1021,NCT04401202,"18 Years to 80 Years  (Adult, Older Adult)",age_149
+54,2509,NCT04491994,"18 Years to 80 Years  (Adult, Older Adult)",age_149
+55,4906,NCT04323592,"18 Years to 80 Years  (Adult, Older Adult)",age_149
+56,3126,NCT04356937,"18 Years to 85 Years  (Adult, Older Adult)",age_151
+57,3969,NCT04343261,"18 Years to 90 Years  (Adult, Older Adult)",age_154
+58,217,NCT04401579,"18 Years to 99 Years  (Adult, Older Adult)",age_156
+59,218,NCT04280705,"18 Years to 99 Years  (Adult, Older Adult)",age_156
+60,2089,NCT04345653,"18 Years to 99 Years  (Adult, Older Adult)",age_156
+61,3758,NCT04475588,"18 Years to 99 Years  (Adult, Older Adult)",age_156
+62,1065,NCT04338074,"19 Years and older  (Adult, Older Adult)",age_157
+63,4597,NCT04370834,"2 Years and older  (Child, Adult, Older Adult)",age_172
+64,3667,NCT04898166,"20 Years to 100 Years  (Adult, Older Adult)",age_178
+65,6249,NCT04406194,20 Years to 40 Years  (Adult),age_184
+66,6250,NCT04400682,20 Years to 40 Years  (Adult),age_184
+67,2058,NCT04674644,"23 Years and older  (Adult, Older Adult)",age_221
+68,5172,NCT04425863,"5 Years and older  (Child, Adult, Older Adult)",age_307
+69,5119,NCT04728594,"Child, Adult, Older Adult",age_372
+70,5484,NCT04322396,"Child, Adult, Older Adult",age_372

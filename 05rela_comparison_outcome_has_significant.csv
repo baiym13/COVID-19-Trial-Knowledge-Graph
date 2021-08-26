@@ -1,0 +1,3 @@
+﻿index,nctid,Intervention_type,huage_did,CUI,standard_intervention,I/C ,comparison_id,“+”：has_significant；“-”：no_difference,standard_indicator,outcome_id
+355,NCT04491240,Drug,Placebo inhalation,C0032042,Placebo,,comparison_37,+,CRP,outcome_345
+358,NCT04491240,Drug,Placebo inhalation,C0032042,Placebo,,comparison_37,+,LDH,outcome_348

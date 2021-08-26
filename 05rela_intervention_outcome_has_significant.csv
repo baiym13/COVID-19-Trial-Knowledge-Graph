@@ -1,0 +1,68 @@
+﻿index,nctid,Intervention_type,huage_did,CUI,standard_intervention,I/C ,intervention_id,“+”：has_significant；“-”：no_difference,standard_indicator,outcome_id
+1,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,+,CRP,outcome_1
+2,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,+,Body Temperature ,outcome_2
+8,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,+,Oxygen,outcome_8
+12,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,+,Adverse,outcome_12
+22,NCT04392141,Drug,Colchicine and Herbal Phenolic Monoterpene Fractions,C0009262,colchicine,I,intervention_4,+,Death ,outcome_22
+23,NCT04392141,Drug,Colchicine and Herbal Phenolic Monoterpene Fractions,C0009262,colchicine,I,intervention_4,+,SpO2,outcome_23
+24,NCT04392141,Drug,Colchicine and Herbal Phenolic Monoterpene Fractions,C0009262,colchicine,I,intervention_4,+,Hospitalization,outcome_24
+26,NCT04392141,Drug,Colchicine and Herbal Phenolic Monoterpene Fractions,C0009262,colchicine,I,intervention_4,+,Lactate Dehydrogenase,outcome_26
+63,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,+,PCR,outcome_63
+64,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,+,Improvement,outcome_64
+65,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,+,Improvement,outcome_65
+66,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,+,Viral Clearance,outcome_66
+73,NCT04401579,Drug,Remdesivir+Baricitinib,C4044947,Remdesivir+Baricitinib,I,intervention_8,+,Recovery,outcome_73
+110,NCT04401579,Drug,Remdesivir+Baricitinib,C4044947,Remdesivir+Baricitinib,I,intervention_8,+,Improvement,outcome_110
+111,NCT04401579,Drug,Remdesivir+Baricitinib,C4044947,Remdesivir+Baricitinib,I,intervention_8,+,Improvement,outcome_111
+112,NCT04401579,Drug,Remdesivir+Baricitinib,C4044947,Remdesivir+Baricitinib,I,intervention_8,+,Discharge,outcome_112
+115,NCT04280705,Drug,Remdesivir,,Remdesivir,I,intervention_9,+,Recovery,outcome_115
+140,NCT04280705,Drug,Remdesivir,,Remdesivir,I,intervention_9,+,Adverse,outcome_140
+152,NCT04280705,Drug,Remdesivir,,Remdesivir,I,intervention_9,+,Improvement,outcome_152
+153,NCT04280705,Drug,Remdesivir,,Remdesivir,I,intervention_9,+,Improvement,outcome_153
+154,NCT04280705,Drug,Remdesivir,,Remdesivir,I,intervention_9,+,Discharge,outcome_154
+204,NCT04292899,Drug,Remdesivir,,Remdesivir,I,intervention_20,+,Ordinal Scale,outcome_194
+209,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,+,Improvement,outcome_199
+211,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,+,Discharge,outcome_201
+214,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,+,ICU,outcome_204
+215,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,+,ICU,outcome_205
+220,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,+,Oxygen,outcome_210
+221,NCT04401202,Dietary Supplement,Nigella sativa oil,,Nigella sativa oil,I,intervention_23,+,Recovery,outcome_211
+242,NCT04358068,Drug,Hydroxychloroquine (HCQ),,HCQ+AZT,I,intervention_26,+,Fever ,outcome_232
+243,NCT04358068,Drug,Hydroxychloroquine (HCQ),,HCQ+AZT,I,intervention_26,+,Symptom,outcome_233
+244,NCT04358068,Drug,Hydroxychloroquine (HCQ),,HCQ+AZT,I,intervention_26,+,Symptom,outcome_234
+245,NCT04358068,Drug,Hydroxychloroquine (HCQ),,HCQ+AZT,I,intervention_26,+,Time,outcome_235
+253,NCT04523831,Drug,Ivermectin and Doxycycline,C0022322,ivermectin,I,intervention_30,+,Improvement,outcome_243
+254,NCT04523831,Drug,Ivermectin and Doxycycline,C0022322,ivermectin,I,intervention_30,+,Recovery,outcome_244
+255,NCT04523831,Drug,Ivermectin and Doxycycline,C0022322,ivermectin,I,intervention_30,+,Deterioration,outcome_245
+256,NCT04523831,Drug,Ivermectin and Doxycycline,C0022322,ivermectin,I,intervention_30,+,RT-PCR,outcome_246
+260,NCT04343092,Drug,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT),C0022322,Ivermectin,I,intervention_33,+,cure,outcome_250
+261,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,ICU,outcome_251
+262,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Clinical Status ,outcome_252
+263,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Improvement,outcome_253
+264,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Improvement,outcome_254
+265,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Deterioration,outcome_255
+266,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Improvement,outcome_256
+267,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Mean Change,outcome_257
+268,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Death ,outcome_258
+269,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Mechanical Ventilation,outcome_259
+270,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Hospitalization,outcome_260
+271,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,I,intervention_34,+,Discharge,outcome_261
+299,NCT04425850,Combination Product,Iota carrageenan nasal spray and Ivermectin oral drops (used as buccal drops),C0022322,ivermectin,I,intervention_42,+,Infect,outcome_289
+353,NCT04491240,Drug,EXO 1 inhalation,,EXO 1 inhalation,,intervention_65,+,CRP,outcome_343
+354,NCT04491240,Drug,EXO 2 inhalation,,EXO 2 inhalation,,intervention_66,+,CRP,outcome_344
+356,NCT04491240,Drug,EXO 1 inhalation,,EXO 1 inhalation,,intervention_65,+,LDH,outcome_346
+357,NCT04491240,Drug,EXO 2 inhalation,,EXO 2 inhalation,,intervention_66,+,LDH,outcome_347
+371,NCT04898166,,Hydroxychloroquine,C0020336,HCQ,I,intervention_68,+,Androgenetic Alopecia,outcome_361
+437,NCT04728594,Behavioral,Social Proof,,Social Proof,I,intervention_79,+,Employees,outcome_427
+438,NCT04728594,Behavioral,Reframing,,Reframing,I,intervention_80,+,Employees,outcome_428
+439,NCT04728594,Behavioral,Scarcity Message,,Scarcity Message,I,intervention_81,+,Employees,outcome_429
+444,NCT04425863,Drug,"Ivermectin 5 MG/ML oral solution, Aspirin 250 mg tablets",C0022322,Ivermectin,I,intervention_82,+,Death ,outcome_434
+445,NCT04425863,Other,"Ivermectin 5 mg/mL oral solution, Dexamethasone 4-mg injection, Aspirin 250 mg tablets",C0022322,Ivermectin,I,intervention_83,+,Death ,outcome_435
+446,NCT04425863,Other,"Ivermectin 5 MG/ML oral solution, Dexamethasone 4-mg injection, Enoxaparin injection. Inpatient treatment with mechanical ventilation in ICU.",C1272883,Injection,I,intervention_84,+,Death ,outcome_436
+449,NCT04542226,Drug,Polyoxidonium,C2716079,Polyoxidonium,I,intervention_85,+,Ordinal Scale,outcome_439
+535,NCT04406194,Drug,AVIGAN 200 mg Film Tablets,C5392771,Avigan,I,intervention_97,+,AUC1-tlast of Favipiravir,outcome_525
+536,NCT04406194,Drug,AVIGAN 200 mg Film Tablets,C5392771,Avigan,I,intervention_97,+,Favipiravir Cmax ,outcome_526
+537,NCT04406194,Drug,AVIGAN 200 mg Film Tablets,C5392771,Avigan,I,intervention_97,+,AUC0-inf of Favipiravir ,outcome_527
+539,NCT04400682,Drug,AVIGAN 200 MG Film Tablets,C5392771,Avigan,I,intervention_98,+,AUC1-tlast,outcome_529
+540,NCT04400682,Drug,AVIGAN 200 MG Film Tablets,C5392771,Avigan,I,intervention_98,+,Favipiravir Cmax ,outcome_530
+541,NCT04400682,Drug,AVIGAN 200 MG Film Tablets,C5392771,Avigan,I,intervention_98,+,AUC0-inf of Favipiravir ,outcome_531

@@ -1,0 +1,23 @@
+﻿age,age_id
+"10 Years and older  (Child, Adult, Older Adult)",age_17
+"12 Years and older  (Child, Adult, Older Adult)",age_30
+13 Years to 16 Years  (Child),age_47
+"16 Years to 70 Years  (Child, Adult, Older Adult)",age_82
+"18 Years and older  (Adult, Older Adult)",age_101
+18 Years to 51 Years  (Adult),age_130
+18 Years to 59 Years  (Adult),age_134
+18 Years to 60 Years  (Adult),age_135
+"18 Years to 65 Years  (Adult, Older Adult)",age_138
+"18 Years to 70 Years  (Adult, Older Adult)",age_142
+"18 Years to 75 Years  (Adult, Older Adult)",age_146
+"18 Years to 80 Years  (Adult, Older Adult)",age_149
+"18 Years to 85 Years  (Adult, Older Adult)",age_151
+"18 Years to 90 Years  (Adult, Older Adult)",age_154
+"18 Years to 99 Years  (Adult, Older Adult)",age_156
+"19 Years and older  (Adult, Older Adult)",age_157
+"2 Years and older  (Child, Adult, Older Adult)",age_172
+"20 Years to 100 Years  (Adult, Older Adult)",age_178
+20 Years to 40 Years  (Adult),age_184
+"23 Years and older  (Adult, Older Adult)",age_221
+"5 Years and older  (Child, Adult, Older Adult)",age_307
+"Child, Adult, Older Adult",age_372

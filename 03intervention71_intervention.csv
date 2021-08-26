@@ -1,0 +1,99 @@
+,index,nctid,measure_type,measure_description,CUI,standard_measure,I/C ,intervention_id
+0,1,NCT04452435,Drug,C21 100 mg twice daily,0,C21,Intervention,intervention_1
+2,14,NCT04431908,Device,High Risk Asymptomatics,0,olfactory device,Intervention,intervention_2
+4,17,NCT04716426,Drug,Tetracycline hydrochloride 3%,C0546879,tetracycline hydrochloride,Intervention,intervention_3
+5,22,NCT04392141,Drug,Colchicine and Herbal Phenolic Monoterpene Fractions,C0009262,colchicine,Intervention,intervention_4
+7,27,NCT04474496,Other,Assessing the impact of COVID-19,0,Assessing the impact of COVID-19,Intervention,intervention_5
+8,45,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,Intervention,intervention_6
+10,64,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,Intervention,intervention_7
+12,73,NCT04401579,Drug,Remdesivir+Baricitinib,C4044947,Remdesivir+Baricitinib,Intervention,intervention_8
+14,115,NCT04280705,Drug,Remdesivir,0,Remdesivir,Intervention,intervention_9
+16,155,NCT04332081,Device,Hyperbaric oxygen therapy (HBOT),0,HBOT,Intervention,intervention_10
+18,157,NCT04329923,Drug,Hydroxychloroquine Sulfate 400 mg twice a day,C0020336,HCQ,Intervention,intervention_11
+19,162,NCT04329923,Drug,Hydroxychloroquine Sulfate 600 mg twice a day,C0020336,HCQ,Intervention,intervention_12
+20,167,NCT04329923,Drug,Hydroxychloroquine Sulfate 600 mg once a day,C0020336,HCQ,Intervention,intervention_13
+22,172,NCT04410159,Drug,Povidone-Iodine,C0032857,Povidone-Iodine,Intervention,intervention_14
+23,173,NCT04410159,Drug,Essential oils,0,Essential oils,Intervention,intervention_15
+24,174,NCT04410159,Other,Tap water,C2919405,Tap water,Intervention,intervention_16
+28,194,NCT04331366,Device,GO2 PEEP MOUTHPIECE,0,GO2 PEEP MOUTHPIECE,Intervention,intervention_17
+29,196,NCT04331366,0,Fluvoxamine,C0085228,Fluvoxamine,Intervention,intervention_18
+31,199,NCT04331899,Drug,Study drug Peginterferon Lambda-1a,C4043002,Peginterferon Lambda-1a,Intervention,intervention_19
+33,204,NCT04292899,Drug,Remdesivir,0,Remdesivir,Intervention,intervention_20
+35,206,NCT04292730,Drug,Remdesivir,0,Remdesivir,Intervention,intervention_21
+37,208,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,Intervention,intervention_22
+39,221,NCT04401202,Dietary Supplement,Nigella sativa oil,0,Nigella sativa oil,Intervention,intervention_23
+41,226,NCT04435808,Drug,Hydroxychloroquine Arm,C0020336,HCQ,Intervention,intervention_24
+43,234,NCT04338074,Drug,Tranexamic acid tablets,0,Tranexamic acid tablets,Intervention,intervention_25
+45,236,NCT04358068,Drug,Hydroxychloroquine (HCQ),C0020336,HCQ,Intervention,intervention_26
+46,237,NCT04358068,Drug,Azithromycin (Azithro),C0052796,AZT,Intervention,intervention_27
+49,249,NCT04358081,Drug,HCQ,C0020336,HCQ,Intervention,intervention_28
+50,250,NCT04358081,Drug,HCQ+AZT,C0052796,HCQ+AZT,Intervention,intervention_29
+52,253,NCT04523831,Drug,Ivermectin and Doxycycline,C0022322,ivermectin,Intervention,intervention_30
+53,254,NCT04523831,Drug,Ivermectin and Doxycycline,C2936643,Standard of Care,Intervention,intervention_31
+55,257,NCT04599959,Diagnostic Test,Sampling of SARS-CoV-2 RNA from nasopharyngeal swab specimen or saliva collected via Salivette Cortisol,0,Sampling of SARS-CoV-2 RNA from nasopharyngeal swab specimen or saliva collected via Salivette Cortisol,Intervention,intervention_32
+56,259,NCT04343092,Drug,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT),C0022322,Ivermectin,Intervention,intervention_33
+57,261,NCT04362137,Drug,Ruxolitinib 5 mg,C2931926,Ruxolitinib,Intervention,intervention_34
+59,276,NCT04724538,Radiation,Patient with COVID-19 pneumonia without intervention,C0205962,Pertechnetate,Intervention,intervention_35
+60,277,NCT04724538,Drug,Patient with COVID-19 pneumonia,C0205962,Pertechnetate,Intervention,intervention_36
+62,286,NCT04674644,Behavioral,The psychosocial effects of COVID-19 pandemic on dental professionals,0,The psychosocial effects of COVID-19 pandemic on dental professionals,Intervention,intervention_37
+63,288,NCT04345653,Drug,Hydroxychloroquine Sulfate (HCQ),C0020336,HCQ,Intervention,intervention_38
+64,292,NCT04338009,Other,Discontinuation of ARB/ACEI,0,Discontinuation of ARB/ACEI,Intervention,intervention_39
+65,293,NCT04338009,Other,Continuation of ARB/ACEI,0,Continuation of ARB/ACEI,Intervention,intervention_40
+66,297,NCT04342663,Drug,Fluvoxamine,C0085228,Fluvoxamine,Intervention,intervention_41
+68,299,NCT04425850,Combination Product,Iota carrageenan nasal spray and Ivermectin oral drops (used as buccal drops),C0022322,ivermectin,Intervention,intervention_42
+69,301,NCT04411667,Drug,Octagam,C0731209,Octagam,Intervention,intervention_43
+70,304,NCT04698993,Diagnostic Test,Dräger Antigen Test SARS-CoV-2,0,Dräger Antigen Test SARS-CoV-2,Intervention,intervention_44
+71,310,NCT04502056,Behavioral,Acknowledgement Racial Injustice AMA,0,Acknowledgement Racial Injustice AMA,Intervention,intervention_45
+72,311,NCT04502056,Behavioral,African American Sender Acknowledgement,0,African American Sender Acknowledgement,Intervention,intervention_46
+73,312,NCT04502056,Behavioral,African American Sender in Informational Videos.,0,African American Sender in Informational Videos.,Intervention,intervention_47
+74,313,NCT04502056,Behavioral,Racial Inequality Highlighted,0,Racial Inequality Highlighted,Intervention,intervention_48
+75,314,NCT04502056,Behavioral,AMA Acknowledgement Drug Pricing,0,AMA Acknowledgement Drug Pricing,Intervention,intervention_49
+76,315,NCT04502056,Behavioral,White Sender in Acknowledgement,0,White Sender in Acknowledgement,Intervention,intervention_50
+77,316,NCT04502056,Behavioral,White Sender in Informational Videos,0,White Sender in Informational Videos,Intervention,intervention_51
+78,317,NCT04502056,Behavioral,No Racial Inequality Highlighting,0,No Racial Inequality Highlighting,Intervention,intervention_52
+80,320,NCT04491994,Drug,HCQ,C0020336,HCQ,Intervention,intervention_53
+81,322,NCT04728802,Drug,Proxalutamide,C4331036,Proxalutamide,Intervention,intervention_54
+83,326,NCT04422561,Drug,Ivermectin Tablets,C0022322,Ivermectin,Intervention,intervention_55
+85,328,NCT04356937,Drug,Tocilizumab,C1609165,Tocilizumab,Intervention,intervention_56
+87,331,NCT04407507,Drug,Ivermectin,C0022322,Ivermectin,Intervention,intervention_57
+89,334,NCT04390022,Drug,Ivermectin,C0022322,Ivermectin,Intervention,intervention_58
+91,343,NCT04409886,Biological,Hyperbaric Oxygen Therapy,0,HBOT,Intervention,intervention_59
+92,344,NCT04399980,Drug,Mavrilimumab,0,Mavrilimumab,Intervention,intervention_60
+94,347,NCT04365153,Drug,Canakinumab Injection 600mg,C4018806,canakinumab Injection,Intervention,intervention_61
+95,348,NCT04365153,Drug,Canakinumab Injection 300mg,C4018806,canakinumab Injection,Intervention,intervention_62
+97,350,NCT04491240,Drug,EXO 1 inhalation,0,EXO 1 inhalation,Intervention,intervention_63
+98,351,NCT04491240,Drug,EXO 2 inhalation,0,EXO 2 inhalation,Intervention,intervention_64
+100,353,NCT04491240,Drug,EXO 1 inhalation,0,EXO 1 inhalation,Intervention,intervention_65
+101,354,NCT04491240,Drug,EXO 2 inhalation,0,EXO 2 inhalation,Intervention,intervention_66
+103,359,NCT04335552,Other,Standard of Care,C2936643,Standard of Care,Intervention,intervention_67
+104,360,NCT04335552,Drug,Hydroxychloroquine,C0020336,HCQ,Intervention,intervention_68
+106,378,NCT04475588,Drug,Itolizumab IV infusion,C2987424,itolizumab,Intervention,intervention_69
+108,393,NCT04343261,Biological,Convalescent Plasma,C5383282,Convalescent Plasma,Intervention,intervention_70
+109,396,NCT04446429,Drug,Proxalutamide,C4331036,Proxalutamide,Intervention,intervention_71
+111,398,NCT04332991,Drug,Hydroxychloroquine,C0020336,HCQ,Intervention,intervention_72
+113,410,NCT04385238,Other,This is an online survey with no intervention.,0,No Intervention,Intervention,intervention_73
+114,412,NCT04370834,Biological,Tocilizumab,C1609165,Tocilizumab,Intervention,intervention_74
+115,413,NCT04323592,Drug,Methylprednisolone,C0025815,Methylprednisolone,Intervention,intervention_75
+117,419,NCT04371419,Behavioral,Messaging,0,Messaging,Intervention,intervention_76
+118,423,NCT04402970,Drug,Dornase Alfa Inhalation Solution,C2348327,Dornase Alfa Inhalation Solution,Intervention,intervention_77
+120,430,NCT04328467,Drug,Hydroxychloroquine,C0020336,HCQ,Intervention,intervention_78
+122,437,NCT04728594,Behavioral,Social Proof,0,Social Proof,Intervention,intervention_79
+123,438,NCT04728594,Behavioral,Reframing,0,Reframing,Intervention,intervention_80
+124,439,NCT04728594,Behavioral,Scarcity Message,0,Scarcity Message,Intervention,intervention_81
+126,444,NCT04425863,Drug,"Ivermectin 5 MG/ML oral solution, Aspirin 250 mg tablets",C0022322,Ivermectin,Intervention,intervention_82
+127,445,NCT04425863,Other,"Ivermectin 5 mg/mL oral solution, Dexamethasone 4-mg injection, Aspirin 250 mg tablets",C0022322,Ivermectin,Intervention,intervention_83
+128,446,NCT04425863,Other,"Ivermectin 5 MG/ML oral solution, Dexamethasone 4-mg injection, Enoxaparin injection. Inpatient treatment with mechanical ventilation in ICU.",C1272883,Injection,Intervention,intervention_84
+129,449,NCT04542226,Drug,Polyoxidonium,C2716079,Polyoxidonium,Intervention,intervention_85
+130,458,NCT04490239,Drug,Intranasal heparin sodium (porcine),C0037513,heparin sodium,Intervention,intervention_86
+131,468,NCT04327388,Drug,Sarilumab SAR153191,C4519528,SAR153191,Intervention,intervention_87
+133,496,NCT04322396,Drug,Azithromycin,C0052796,AZT,Intervention,intervention_88
+134,497,NCT04322396,Drug,Hydroxychloroquine,C0020336,HCQ,Intervention,intervention_89
+136,509,NCT04308668,Drug,Hydroxychloroquine,C0020336,HCQ,Intervention,intervention_90
+138,518,NCT04340557,Drug,Losartan,C0126174,Losartan,Intervention,intervention_91
+139,521,NCT04392219,Drug,EIDD-2801,C5392300,EIDD-2801,Intervention,intervention_92
+141,523,NCT04634903,Behavioral,Supportive Therapy SSI,0,Supportive Therapy SSI,Intervention,intervention_93
+142,524,NCT04634903,Behavioral,Behavioral Activation SSI,0,Behavioral Activation SSI,Intervention,intervention_94
+143,525,NCT04634903,Behavioral,Growth Mindset SSI,0,Growth Mindset SSI,Intervention,intervention_95
+145,527,NCT04160975,Behavioral,Video about safety and effectiveness of adult seasonal flu vaccination,0,Video about safety and effectiveness of adult seasonal flu vaccination,Intervention,intervention_96
+146,535,NCT04406194,Drug,AVIGAN 200 mg Film Tablets,C5392771,Avigan,Intervention,intervention_97
+147,539,NCT04400682,Drug,AVIGAN 200 MG Film Tablets,C5392771,Avigan,Intervention,intervention_98

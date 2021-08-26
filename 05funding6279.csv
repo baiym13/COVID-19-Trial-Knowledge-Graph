@@ -1,0 +1,14 @@
+﻿fundedby,funding_id
+Industry,fund_1
+Industry|NIH,fund_2
+Industry|U.S. Fed,fund_3
+Industry|U.S. Fed|NIH,fund_4
+NIH,fund_5
+NIH|Industry,fund_6
+NIH|U.S. Fed,fund_7
+NIH|U.S. Fed|Industry,fund_8
+Other,fund_9
+U.S. Fed,fund_10
+U.S. Fed|Industry,fund_11
+U.S. Fed|NIH,fund_12
+U.S. Fed|NIH|Industry,fund_13

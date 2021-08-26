@@ -1,0 +1,51 @@
+,index,nctid,measure_type,measure_description,CUI,standard_measure,I/C ,comparison_id
+1,2,NCT04452435,0,Placebo,C0032042,Placebo,Comparison,comparison_1
+3,15,NCT04431908,0,Outpatients (Drive Thru),0,Outpatients (Drive Thru),Comparison,comparison_2
+6,23,NCT04392141,0,Standard Treatment,C2936643,Standard of Care,Comparison,comparison_3
+9,46,NCT04646109,0,Control Group,0,Control,Comparison,comparison_4
+11,65,NCT04542694,0,Standard of care,C2936643,Standard of Care,Comparison,comparison_5
+13,74,NCT04401579,0,Remdesivir plus Placebo,C0032042,Placebo,Comparison,comparison_6
+15,116,NCT04280705,0,Placebo,C0032042,Placebo,Comparison,comparison_7
+17,156,NCT04332081,0,Standard of Care,C2936643,Standard of Care,Comparison,comparison_8
+21,168,NCT04329923,0,Placebo,C0032042,Placebo,Comparison,comparison_9
+25,175,NCT04410159,0,Control,0,Control,Comparison,comparison_10
+26,177,NCT04335136,Drug,RhACE2 APN01,0,RhACE2 APN01,Comparison,comparison_11
+27,178,NCT04335136,Drug,Physiological saline solution,C0036082,Saline Solution,Comparison,comparison_12
+30,197,NCT04331366,0,Placebo,C0032042,Placebo,Comparison,comparison_13
+32,200,NCT04331899,Other,Placebo injection,C0032042,Placebo,Comparison,comparison_14
+34,205,NCT04292899,Drug,Standard of Care,C2936643,Standard of Care,Comparison,comparison_15
+36,207,NCT04292730,Drug,Standard of Care,C2936643,Standard of Care,Comparison,comparison_16
+38,209,NCT04320615,Drug,Placebo Arm,C0032042,Placebo,Comparison,comparison_17
+40,222,NCT04401202,0,Control,0,Control,Comparison,comparison_18
+42,227,NCT04435808,0,No Intervention Arm,0,No Intervention,Comparison,comparison_19
+44,235,NCT04338074,Drug,Placebo Treatment,C0032042,Placebo,Comparison,comparison_20
+47,238,NCT04358068,Drug,Placebo for Hydroxychloroquine,C0032042,Placebo,Comparison,comparison_21
+48,239,NCT04358068,Drug,Placebo for Azithromycin,C0032042,Placebo,Comparison,comparison_22
+51,251,NCT04358081,Drug,Placebo,C0032042,Placebo,Comparison,comparison_23
+54,255,NCT04523831,0,Placebo,C0032042,Placebo,Comparison,comparison_24
+58,262,NCT04362137,Drug,Placebo,C0032042,Placebo,Comparison,comparison_25
+61,278,NCT04724538,0,Healthy volunteers,C0205962,Pertechnetate,Comparison,comparison_26
+67,298,NCT04342663,Drug,Placebo,C0032042,Placebo,Comparison,comparison_27
+79,318,NCT04502056,Behavioral,Placebo videos,C0032042,Placebo,Comparison,comparison_28
+82,323,NCT04728802,Drug,Placebo,C0032042,Placebo,Comparison,comparison_29
+84,327,NCT04422561,0,Control group,0,Control,Comparison,comparison_30
+86,329,NCT04356937,Drug,Placebos,C0032042,Placebo,Comparison,comparison_31
+88,332,NCT04407507,Drug,Placebo,C0032042,Placebo,Comparison,comparison_32
+90,335,NCT04390022,Drug,Placebo,C0032042,Placebo,Comparison,comparison_33
+93,345,NCT04399980,Drug,Placebos,C0032042,Placebo,Comparison,comparison_34
+96,349,NCT04365153,Drug,Placebos,C0032042,Placebo,Comparison,comparison_35
+99,352,NCT04491240,Drug,Placebo inhalation,C0032042,Placebo,Comparison,comparison_36
+102,355,NCT04491240,Drug,Placebo inhalation,C0032042,Placebo,Comparison,comparison_37
+105,361,NCT04335552,Drug,Azithromycin,C0052796,AZT,Comparison,comparison_38
+107,379,NCT04475588,Drug,Best supportive care (BSC),C0344211,BSC,Comparison,comparison_39
+110,397,NCT04446429,Other,Standard of Care,C2936643,Standard of Care,Comparison,comparison_40
+112,399,NCT04332991,Drug,Placebo,C0032042,Placebo,Comparison,comparison_41
+116,414,NCT04323592,Other,standard care,C2936643,Standard of Care,Comparison,comparison_42
+119,424,NCT04402970,0,Standard of Care,C2936643,Standard of Care,Comparison,comparison_43
+121,431,NCT04328467,Other,Placebo,C0032042,Placebo,Comparison,comparison_44
+125,440,NCT04728594,0,Delayed Contact,0,Delayed Contact,Comparison,comparison_45
+132,469,NCT04327388,Drug,Placebo,C0032042,Placebo,Comparison,comparison_46
+135,498,NCT04322396,Drug,Placebo oral tablet,C0032042,Placebo,Comparison,comparison_47
+137,510,NCT04308668,Other,Placebo,C0032042,Placebo,Comparison,comparison_48
+140,522,NCT04392219,Drug,Placebo,C0032042,Placebo,Comparison,comparison_49
+144,526,NCT04634903,0,Control group,0,Control,Comparison,comparison_50
